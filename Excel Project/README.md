@@ -1,6 +1,6 @@
 # 📊 Excel Project
 ## 🚀 Overview 
-This Project contains an analysis of India's Consumer Price Index (CPI) trends based on different commodity groups, sectors (Rural, Urban, and Combined), and time periods (Year and Month).
+This project contains an analysis of India's Consumer Price Index (CPI) trends based on different commodity groups, sectors (Rural, Urban, and Combined), and time periods (Year and Month).
 
 
 ## 📈 Insights Provided
