@@ -3,7 +3,7 @@
 This repository features a collection of Power BI, SQL, and Excel projects designed to extract valuable insights from real-world datasets. 
 ## 🔍 Included Projects:
 
-# Power BI Projects:
+## Power BI Projects:
 Food Delivery Dashboard - Analyzes food delivery trends, customer behavior, and operational efficiency.
 Classic Models Dashboard - Tracks sales revenue, customer segmentation, and product performance.
 ## SQL Projects:
