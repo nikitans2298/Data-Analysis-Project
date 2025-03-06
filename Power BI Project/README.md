@@ -1,7 +1,7 @@
 # 📊 Power BI Dashboard Projects
 
 ## 🚀 Overview
-This repository contains two Power BI dashboard projects that analyze different datasets and provide insights using data visualization techniques.
+This folder contains two Power BI dashboard projects that analyze different datasets and provide insights using data visualization techniques.
 
 ---
 
